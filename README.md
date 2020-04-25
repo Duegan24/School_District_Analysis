@@ -53,7 +53,7 @@ Score impact measured by taking uncorrected scores without the Thomas High Schoo
         - % Overall Passing:  -6%       
 
 - Scores by School Type
-    -In the Charter School type (District was unipacted):
+    -In the Charter School type (District was unimpacted):
         - % Passing Math:  -4%
         - % Passing Reading:  -4%
         - % Overall Passing:  -3%              
