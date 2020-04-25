@@ -31,7 +31,11 @@ Score impact measured by taking uncorrected scores without the Thomas High Schoo
     - % Ovarall Passing: - 1%
 
 - School Summary:
-    - 
+    - Thomas High Schools Scores (only those listed below were impacted):
+        - Average Reading Score: +0.1%
+        - % Passing Math: -26%
+        - % Passing Reading: -27%
+        - % Ovarall Passing: -26%
 
 - Thomas High School performance relative to other schools:
     - Thomas HS was ranked as #2 in the top performing schools; however, after the correction they fell #8.
